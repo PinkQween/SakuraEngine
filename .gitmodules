@@ -1,0 +1,9 @@
+[submodule "Vendor/GLFW"]
+	path = Vendor/GLFW
+	url = https://github.com/TheCherno/glfw
+[submodule "Vendor/spdlog"]
+	path = Vendor/spdlog
+	url = https://github.com/gabime/spdlog/
+[submodule "Vendor/glm"]
+	path = Vendor/glm
+	url = https://github.com/g-truc/glm
